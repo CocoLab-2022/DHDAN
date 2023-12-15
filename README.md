@@ -34,7 +34,7 @@ If you find the code useful in your research, please consider citing:
 
 ```
 
-
+Hongyong Han, Wei Wang*, Gaowei Zhang, Mingjie Li, and Yi Wang. 2024. Cross-Domain Coral Image Classification Using Dual-Stream Hierarchical Neural Networks. In Proceedings of ACM SAC Conference (SAC’24). ACM New York, NY, USA, Article 4, 9 pages. https://doi.org/10.1145/3605098.
 
 ```
 
