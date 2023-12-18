@@ -8,17 +8,17 @@ As one of the most biologically complex and valuable ecosystems on the planet, c
 
 ## Environment
 
-1. Linux Ubuntu 18.04   
+1. Linux Ubuntu 20.04   
 
 2. python=3.6  
 
-3. tensorflow-gpu=1.14.0  
+3. pytorch=1.10.1  
 
 4. networkx=2.5
 
-5. CUDA = 9.2
+5. CUDA = 11.7
 
-6. GPU = RTX 2080Ti
+6. GPU = RTX 3090Ti
 
 ## How to run?
 
