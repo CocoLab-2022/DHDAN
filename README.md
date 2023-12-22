@@ -9,16 +9,14 @@ As one of the most biologically complex and valuable ecosystems on the planet, c
 ## Environment
 
 1. Linux Ubuntu 20.04   
-
-2. python=3.6  
-
-3. pytorch=1.10.1  
-
-4. networkx=2.5
-
-5. CUDA = 11.7
-
+2. python==3.7  
+3. pytorch==1.10.1  
+4. numpy==1.21.6
+5. CUDA=11.7
 6. GPU = RTX 3090Ti
+7. easydict==1.9
+8. tqdm==4.51.0
+9. Pillow==9.1.0
 
 
 ## Dataset
@@ -27,8 +25,8 @@ As one of the most biologically complex and valuable ecosystems on the planet, c
 
 ## How to run?
 
-1. Run train_F1_source.py.
-2. Run train_F1.py.
+1. Run DHDAN_train.py.
+   
 
 
 ## Citation
